@@ -2,13 +2,13 @@
 
 body {
     font-family: 'Roboto Mono', monospace;
-    background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 h1 {
     font-size: 3.5em;
+    text-align: center;
     font-family: 'Cookie', cursive;
 }
 
