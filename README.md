@@ -1,2 +1,2 @@
 # hobby
-Exercício de dev web - etec 2022
+Exercício dev web - etec 2022
